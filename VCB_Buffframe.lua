@@ -1,7 +1,7 @@
 --Global Variables
 VCB_BUTTONNAME = {buff="VCB_BF_BUFF_BUTTON", debuff="VCB_BF_DEBUFF_BUTTON", weapon = "VCB_BF_WEAPON_BUTTON"}
 VCB_MININDEX = {buff=0, debuff=0, weapon=0}
-VCB_MAXINDEX = {buff=41, debuff=15, weapon=1}
+VCB_MAXINDEX = {buff=31, debuff=15, weapon=1}
 
 -- Local Variables
 local BUTTON_TEMPLATE_NAME = {buff="VCB_BF_BUFF_BUTTON", debuff="VCB_BF_DEBUFF_BUTTON", weapon = "VCB_BF_WEAPON_BUTTON"}
